@@ -445,7 +445,6 @@ DEPENDENCIES
   sass-rails
   simplecov (= 0.17.1)
   spree!
-  sqlite3 (~> 1.4.0)
   timecop
   tzinfo-data
   webdrivers (~> 4.1)
